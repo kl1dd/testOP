@@ -1,0 +1,5 @@
+D:\jb_rider\projects\test\hw\bin\Release\net6.0\publish\hw.exe
+D:\jb_rider\projects\test\hw\bin\Release\net6.0\publish\hw.dll
+D:\jb_rider\projects\test\hw\bin\Release\net6.0\publish\hw.deps.json
+D:\jb_rider\projects\test\hw\bin\Release\net6.0\publish\hw.runtimeconfig.json
+D:\jb_rider\projects\test\hw\bin\Release\net6.0\publish\hw.pdb

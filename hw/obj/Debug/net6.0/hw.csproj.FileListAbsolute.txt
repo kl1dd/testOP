@@ -1,0 +1,15 @@
+D:\jb_rider\projects\test\hw\bin\Debug\net6.0\hw.exe
+D:\jb_rider\projects\test\hw\bin\Debug\net6.0\hw.deps.json
+D:\jb_rider\projects\test\hw\bin\Debug\net6.0\hw.runtimeconfig.json
+D:\jb_rider\projects\test\hw\bin\Debug\net6.0\hw.dll
+D:\jb_rider\projects\test\hw\bin\Debug\net6.0\hw.pdb
+D:\jb_rider\projects\test\hw\obj\Debug\net6.0\hw.csproj.AssemblyReference.cache
+D:\jb_rider\projects\test\hw\obj\Debug\net6.0\hw.GeneratedMSBuildEditorConfig.editorconfig
+D:\jb_rider\projects\test\hw\obj\Debug\net6.0\hw.AssemblyInfoInputs.cache
+D:\jb_rider\projects\test\hw\obj\Debug\net6.0\hw.AssemblyInfo.cs
+D:\jb_rider\projects\test\hw\obj\Debug\net6.0\hw.csproj.CoreCompileInputs.cache
+D:\jb_rider\projects\test\hw\obj\Debug\net6.0\hw.dll
+D:\jb_rider\projects\test\hw\obj\Debug\net6.0\refint\hw.dll
+D:\jb_rider\projects\test\hw\obj\Debug\net6.0\hw.pdb
+D:\jb_rider\projects\test\hw\obj\Debug\net6.0\hw.genruntimeconfig.cache
+D:\jb_rider\projects\test\hw\obj\Debug\net6.0\ref\hw.dll
